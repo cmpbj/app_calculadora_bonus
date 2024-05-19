@@ -5,7 +5,7 @@ Este é um pequeno projeto que implementa uma calculadora de bônus usando Strea
 ## Funcionalidades
 
 - Calcule o seu bônus inserindo o seu salário e a porcentagem do bônus desejado.
-- Interface amigável e intuitiva usando Streamlit.
+- Interface amigável e intuitiva usando Tkinter.
 
 ## Como usar
 

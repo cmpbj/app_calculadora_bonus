@@ -9,4 +9,4 @@ Este é um pequeno projeto que implementa uma calculadora de bônus usando Strea
 
 ## Como usar
 
-Para acessar o app e utilizar a calculadora, basta acessar o seguinte link: [Calculadora de Bônus](https://cmpbj-app-calculadora-bonus.streamlit.app/)
+Para acessar o app e utilizar a calculadora, basta clonar este repositório e rodar o comando 'python app.py'.
